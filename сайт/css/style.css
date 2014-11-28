@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Segoe Ui;
+  src: url(../fonts/SegoeUi.ttf);
+}
+@font-face {
+  font-family: Segoe Ui Light;
+  src: url(../fonts/SegoeUiLight.ttf);
+}
+
+.SU {
+  font-family: Segoe Ui;
+}
+.SUL{
+  font-family: Segoe Ui Light;
+}
