@@ -10,6 +10,13 @@
 .SU {
   font-family: Segoe Ui;
 }
-.SUL{
+.SUL {
   font-family: Segoe Ui Light;
+}
+
+#LoadProgress {
+  display: none;
+}
+.alert {
+  padding: 0;
 }
